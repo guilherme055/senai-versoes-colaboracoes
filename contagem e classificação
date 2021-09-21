@@ -1,0 +1,27 @@
+const listaDepeças =[peça teste 1 , peça teste 2, peça teste 3 peça teste 4];
+console.log("quantidade de caracteres");
+
+if (listaDepeças.lenght > 100 ) ;
+   console.log("As peças podem ser estocadas");
+
+console.log("Quantidade de peças");
+for (var index = 0; index < ListaDePecas.length; index ++) {
+    var PecaAtual = ListaDePecas[index 0 ,1 ,2, 3 , 4];
+    if (PecaAtual.length > 100) {
+        console.log(PecaAtual + : "esta peça possui estoque superior a 100 unidades!")
+
+    } else {
+        console.log(PecaAtual + ": esta peça poderá ser cadastrada")
+    }
+}
+console.log("quantidade de peças")
+var quantidadeDaPeca = 100;
+if (quantidadeDaPeca >=100) {
+    console.log("estoque cheio");
+} else {
+    console.log("estoque sem espaço");
+console.log(organizar peças);
+var (quantidade de peças na listaDepeças) ;
+if (listaDepeças para repor estoque ) ;
+console.log(estoque cheio);
+
