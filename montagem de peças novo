@@ -1,0 +1,22 @@
+const ListaDePecas = ["Peca de teste 1", "peça de teste 2 ", "Peça de teste 3 "]
+console.log("Quantidade de caracteres")
+
+if (ListaDePecas.length < 10) {
+    console.log("As peças podem ser cadastradas");
+}
+console.log("Quantidade de caracteres");
+for (var index = 0; index < ListaDePecas.length; index ++) {
+    var PecaAtual = ListaDePecas[index 0 ,1 ,2, 3];
+    if (PecaAtual.length < 3) {
+        console.log(PecaAtual + : "esta peça possui nome inferior a 3 caracteres!")
+
+    } else {
+        console.log(PecaAtual + ": esta peça poderá ser cadastrada")
+    }
+}
+console.log("Peso da Peça")
+var PesoDaPeca = 50;
+if (PesoDaPeca >=100) {
+    console.log("Peso suficiente")
+} else {
+    console.log("Peso insuficiente")
